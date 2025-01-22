@@ -13,7 +13,8 @@ A simple, responsive, and visually appealing To-Do List application with animati
 
 ## Demo
 
-![Demo Screenshot](https://via.placeholder.com/800x400?text=Demo+Screenshot)
+![Demo Screenshot](https://raw.githubusercontent.com/shreyash0019/0019/928ffe135f3933521383ae3ddd1bd08b67c98d84/image.png?token=BBUFGJ7UZS4JNXLH5VTWDD3HSEYW2)
+
 
 > Add your own hosted screenshot or link to a live demo here.
 
