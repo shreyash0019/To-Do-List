@@ -11,11 +11,6 @@ A simple, responsive, and visually appealing To-Do List application with animati
 - **Animations**: Smooth fade-in animation for newly added tasks.
 - **Keyboard Support**: Press `Enter` to quickly add a task.
 
-## Demo
-
-![Demo Screenshot](https://raw.githubusercontent.com/shreyash0019/0019/928ffe135f3933521383ae3ddd1bd08b67c98d84/image.png?token=BBUFGJ7UZS4JNXLH5VTWDD3HSEYW2)
-
-
 
 ## Getting Started
 
