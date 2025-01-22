@@ -54,13 +54,6 @@ todo-list/
 2. View the task added to the list below.
 3. Click the **Delete** button next to a task to remove it.
 
-## Screenshots
-
-### Desktop View
-![Desktop View Screenshot](https://raw.githubusercontent.com/shreyash0019/0019/928ffe135f3933521383ae3ddd1bd08b67c98d84/image.png?token=BBUFGJ7UZS4JNXLH5VTWDD3HSEYW2)
-
-### Mobile View
-![Mobile View Screenshot](https://github.com/shreyash0019/0019/blob/master/WhatsApp%20Image%202025-01-22%20at%2023.43.52_bc0bd63e.jpg?raw=true)
 
 ## Technologies Used
 
