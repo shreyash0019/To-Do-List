@@ -16,7 +16,6 @@ A simple, responsive, and visually appealing To-Do List application with animati
 ![Demo Screenshot](https://raw.githubusercontent.com/shreyash0019/0019/928ffe135f3933521383ae3ddd1bd08b67c98d84/image.png?token=BBUFGJ7UZS4JNXLH5VTWDD3HSEYW2)
 
 
-> Add your own hosted screenshot or link to a live demo here.
 
 ## Getting Started
 
@@ -58,10 +57,11 @@ todo-list/
 ## Screenshots
 
 ### Desktop View
-![Desktop View Screenshot](https://via.placeholder.com/800x400?text=Desktop+View)
+![Demo Screenshot](https://raw.githubusercontent.com/shreyash0019/0019/928ffe135f3933521383ae3ddd1bd08b67c98d84/image.png?token=BBUFGJ7UZS4JNXLH5VTWDD3HSEYW2)
+
 
 ### Mobile View
-![Mobile View Screenshot](https://via.placeholder.com/400x800?text=Mobile+View)
+![Mobile View Screenshot](https://github.com/shreyash0019/0019/blob/master/WhatsApp%20Image%202025-01-22%20at%2023.43.52_bc0bd63e.jpg?raw=true)
 
 ## Technologies Used
 
